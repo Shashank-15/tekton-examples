@@ -28,7 +28,7 @@ spec:
   type: image
   params:
     - name: url
-      value: <DOCKER_USERNAME>/sinatra-hello-world-tekton-demo
+      value: gigatorb/sinatra-hello-world-tekton-demo
 
 ---
 
